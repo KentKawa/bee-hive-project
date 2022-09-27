@@ -1,0 +1,43 @@
+{
+  "id": 84512,
+  "name": "Link Banjo",
+  "userName": "BeeBae",
+  "password": "manning",
+  "picture": "https://randomuser.me/api/portraits/med/women/50.jpg",
+  "email": "Link.Banjo@fakeemail.com",
+  "phoneNumber": "(232)800-2346",
+  "hiveList": [
+    {
+      "name": "Hive 1",
+      "weight": 60,
+      "queenPlaced": "9/14/2022",
+      "location": [43.618881, -116.215019],
+      "temperament": "passive",
+      "meds": [],
+      "disease": []
+    },
+    {
+      "name": "Hive 2",
+      "weight": 30,
+      "queenPlaced": "9/14/2020",
+      "location": [43.615, -116.2023],
+      "temperament": "passive",
+      "meds": [],
+      "disease": []
+    },
+    {
+      "name": "Hive 3",
+      "weight": 40,
+      "queenPlaced": "9/14/2020",
+      "location": [43.615, -116.2143],
+      "temperament": "passive",
+      "meds": [],
+      "disease": []
+    }
+  ],
+  "buisness": {
+    "name": "BumbleBae",
+    "email": "Beesknees@fakeemail.com",
+    "phoneNumber": "(800)888-8008"
+  }
+}
